@@ -14,3 +14,9 @@ This is a rework of the **WorkAround Explorer** project from *codecademy*
 ![Original Demo from Project in *codecademy*](https://static-assets.codecademy.com/Courses/Learn-JavaScript/Modules/WorkAround%20Explorer%20Demo.gif)
 
 The project involves using incomplete or broken code to achieve the above functionality.
+
+## Skills
+* ES6 Syntax
+* Git
+* Modules
+* Simulated teamwork
