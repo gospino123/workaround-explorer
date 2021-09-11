@@ -1,6 +1,6 @@
 // Add your imports here.
 import { getDataByRole, getDataByCompany } from "./salaryData.js";
-import default salaryData from './salaryData.js';
+import salaryData from './salaryData.js';
 // Note: The reason these functions are in a separate module from salaryData.js is to achieve separation of concerns. salaryData.js is concerned only with providing access to raw data while workAroundModule.js is concerned with digging into the data to find precise values.
 
 
